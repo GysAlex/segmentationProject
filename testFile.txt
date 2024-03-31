@@ -1,1 +1,7 @@
-this is a test 
+This model is able to do multi class image segmentation with satellite images 
+You can drag and drop your image in the gradio UI and your image will be predicts and you will get some stats about the
+occupation of different classes on your image 
+
+there are 06 classess with very intuitive colors for each one 
+
+land, road, water, vegetation, building and unlabeled 
